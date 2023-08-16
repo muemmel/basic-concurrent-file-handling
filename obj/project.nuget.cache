@@ -1,24 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "8yKISOtLXgET5yUGEffrFTkxclLMXSXKukwhHvxJJKmbsv2rUjjbWJB/PiqD9j+fKLcUDGPjLO08NtUccfwJ1w==",
-  "success": true,
-  "projectFilePath": "/home/pk/Documents/Projects/CSharp/ConfigManager/ConsoleApp1/ConsoleApp1.csproj",
-  "expectedPackageFiles": [
-    "/home/pk/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
-    "/home/pk/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
-    "/home/pk/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/home/pk/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/nlog/5.1.4/nlog.5.1.4.nupkg.sha512",
-    "/home/pk/.nuget/packages/nlog.extensions.logging/5.2.3/nlog.extensions.logging.5.2.3.nupkg.sha512",
-    "/home/pk/.nuget/packages/riok.mapperly/2.8.0/riok.mapperly.2.8.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "/home/pk/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "kZ4rxxnYyG5bxxDYEqEJjFAeV4JLLbM7G4derkeNPNK82H/BLglcjEKkolGoqcyFL8mumV+MjM0GBOk52lXQoQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pk\\Documents\\Projects\\basic-concurrent-file-handling\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\pk\\Documents\\Projects\\Utility\\Utility.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\pk\\Documents\\Projects\\Utility\\Utility.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
